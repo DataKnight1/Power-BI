@@ -1,0 +1,48 @@
+Player_ID,Team_ID,Player_Name,Annual_Fee_EUR,Payment_Status,Payment_Date,Payment_Method,Invoice_Number,Notes
+P001,T001,Pedro Lima,685079,Overdue,,,INV-2024-5349,Follow-up required
+P002,T001,Ángel Alarcón,674647,Paid,20/07/2024,Debit Card,INV-2024-6139,
+P003,T001,William Gomes,652097,Paid,17/02/2024,MBWay,INV-2024-4114,
+P004,T001,João Moreira,115640,Paid,23/07/2024,Bank Transfer,INV-2024-9518,
+P005,T001,Tiago Silva,881192,Overdue,,,INV-2024-9821,Follow-up required
+P006,T001,Bernardo Lima,574135,Paid,24/04/2024,Debit Card,INV-2024-8066,
+P007,T001,Yann Karamoh,279778,Paid,22/06/2024,Debit Card,INV-2024-3041,
+P008,T001,Deniz Gül,526010,Paid,10/9/2024,Debit Card,INV-2024-7691,
+P009,T001,Diogo Costa,571304,Paid,23/05/2024,Cash,INV-2024-4143,
+P010,T001,João Teixeira,689111,Paid,13/03/2024,Debit Card,INV-2024-7653,
+P011,T001,Martim Cunha,205898,Paid,1/5/2024,Debit Card,INV-2024-4443,
+P012,T001,Pablo Rosario,343187,Paid,19/10/2024,Debit Card,INV-2024-8618,
+P013,T001,Leonardo Vonić,49832,Paid,22/04/2024,MBWay,INV-2024-3780,
+P014,T001,Jakub Kiwior,22949,Paid,10/9/2024,Debit Card,INV-2024-2530,
+P015,T001,Trofim Melnichenko,630654,Pending,,,,Reminder sent
+P016,T001,Alberto Costa,580908,Pending,,,,Reminder sent
+P017,T001,Gabriel Brás,704237,Paid,8/4/2024,Cash,INV-2024-1400,
+P018,T001,Kotaro Nagata,342460,Paid,16/10/2024,Bank Transfer,INV-2024-8461,
+P019,T001,Stephen Eustaquio,703005,Paid,21/10/2024,Cash,INV-2024-7291,
+P020,T001,Felipe Silva,278559,Paid,8/3/2024,Bank Transfer,INV-2024-2746,
+P021,T001,Anhá Cande,48677,Pending,,,,Reminder sent
+P022,T001,Kaio Henrique,304651,Paid,26/09/2024,MBWay,INV-2024-1822,
+P023,T001,Dominik Prpić,235946,Paid,28/02/2024,MBWay,INV-2024-3184,
+P024,T001,Gil Martins,398541,Pending,,,,Reminder sent
+P025,T002,Luuk de Jong,19694,Paid,18/10/2024,Debit Card,INV-2024-8251,
+P026,T002,Tiago Andrade,547640,Paid,24/09/2024,MBWay,INV-2024-9976,
+P027,T002,Gonçalo Ribeiro,772598,Paid,6/8/2024,MBWay,INV-2024-5246,
+P028,T002,Victor Froholdt,128692,Pending,,,,Reminder sent
+P029,T002,Brayan Caicedo,770471,Pending,,,,Reminder sent
+P030,T002,Gabri Veiga,974531,Paid,25/09/2024,MBWay,INV-2024-4919,
+P031,T002,Kauê,930121,Paid,3/5/2024,Cash,INV-2024-5451,
+P032,T002,André Miranda,852714,Paid,18/02/2024,Cash,INV-2024-3471,
+P033,T002,Jan Bednarek,83200,Paid,23/03/2024,Cash,INV-2024-2052,
+P034,T002,Gonçalo Sousa,393815,Paid,11/9/2024,MBWay,INV-2024-7812,
+P035,T002,Dinis,721703,Paid,27/07/2024,MBWay,INV-2024-1320,
+P036,T002,João Costa,513182,Pending,,,,Reminder sent
+P037,T002,Zaidu,985542,Pending,,,,Reminder sent
+P038,T002,Leonardo Fajardo,438111,Paid,1/6/2024,Debit Card,INV-2024-7389,
+P039,T002,Borja Sainz,393740,Pending,,,,Reminder sent
+P040,T002,Filipe Sousa,877735,Overdue,,,INV-2024-7865,Follow-up required
+P041,T002,Alan Varela,240724,Paid,24/09/2024,Cash,INV-2024-8999,
+P042,T002,Samu Aghehowa,921937,Paid,14/08/2024,Bank Transfer,INV-2024-7371,
+P043,T002,Gonçalo Silva,370359,Paid,22/07/2024,Cash,INV-2024-8657,
+P044,T002,Rui Monteiro,177712,Overdue,,,INV-2024-9751,Follow-up required
+P045,T002,Nehuén Pérez,623768,Paid,13/10/2024,Bank Transfer,INV-2024-2375,
+P046,T002,António Ribeiro,131087,Paid,5/8/2024,Cash,INV-2024-1823,
+P047,T002,Cláudio Ramos,130261,Paid,11/4/2024,MBWay,INV-2024-6355,
